@@ -1,2 +1,4 @@
-# fullstack-python_flask-javascript-test
-Fullstack Development with Flask &amp; Javascript
+# Example page
+
+
+View page online: https://sezalazar.github.io/fullstack-python_flask-javascript-test/
